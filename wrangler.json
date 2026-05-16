@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "anjel-sales-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7598975e-1da3-417a-b5dd-ac4a3684bd4d",
+			"database_name": "ims-anjel-sales-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
